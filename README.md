@@ -1,2 +1,2 @@
 # hello-world
-Well, this is my first repository. Wow!
+I like cats!
